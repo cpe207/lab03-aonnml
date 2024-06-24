@@ -7,4 +7,4 @@
 
 660610789 รัชชานนท์ ไชยวงค์
 
-<strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-aonnml/</strong>
+<strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-aonnml/index.html</strong>
